@@ -28,7 +28,7 @@
     alt="example" />
 </p>
 <h2></h2>
-[![](https://visitcount.itsvg.in/api?id=VatanAgnihotri&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <div align="center">
 <i>Seguime por mis redes:</i><br>
 <br>
@@ -38,6 +38,10 @@
 <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <!--<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>-->
 </div>
+
+Credit: [VatanAgnihotri](https://github.com/bleanb)
+
+Last Edited on: 03/05/2024
 
 
 <!--
