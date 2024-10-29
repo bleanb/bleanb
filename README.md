@@ -3,8 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarollador+Web;Estudiante+de+Ingenieria+Informatica;Creador+del+Newsletter+Drakonet.com.ar;Siempre+aprendiendo+hablidades+nuevas."></a>
 </p>
 <br>
-<h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Sobre Mi [![](https://visitcount.itsvg.in/api?id=VatanAgnihotri&icon=0&color=0)](https://visitcount.itsvg.in)
-</h2>
+<h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Sobre Mi</h2>
 <br>
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
@@ -29,6 +28,7 @@
     alt="example" />
 </p>
 <h2></h2>
+[![](https://visitcount.itsvg.in/api?id=VatanAgnihotri&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="center">
 <i>Seguime por mis redes:</i><br>
 <br>
