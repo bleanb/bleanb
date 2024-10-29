@@ -5,6 +5,14 @@
 <br>
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Sobre Mi</h2>
 <br>
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
+- 🔭 Actualmente estoy emprendiendo con **DRAKONET** mi propio newsletter y comunidad de programaciòn.
+- 🌱 Aprendiendo SQL y sobre bases de datos. **PostgreSQL**
+- 👯 Estoy buscando colaborar en el armado de apps **Diseño o Desarollo de Andoid apps o IOS apps**
+- 💬 Pueden visitar mi pagina [here](https://drakonet.com.ar) Ahi pueden consultarme lo que necesiten.
+- 😄 Puedes decirme : **Lean**
+<br>
 <h2> Mis Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
