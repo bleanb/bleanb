@@ -8,8 +8,8 @@
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 - 🔭 Actualmente estoy emprendiendo con **DRAKONET** mi propio newsletter y comunidad de programaciòn.
-- 🌱 Aprendiendo SQL y sobre bases de datos. **PostgreSQL**
-- 👯 Estoy buscando colaborar en el armado de apps **Diseño o Desarollo de Andoid apps o IOS apps**
+- 🌱 Aprendiendo SQL y sobre bases de datos. **"PostgreSQL"**
+- 👯 Estoy buscando colaborar en el armado de apps **"Diseño o Desarollo de Andoid apps o IOS apps"**
 - 💬 Pueden visitar mi pagina [here](https://drakonet.com.ar) Ahi pueden consultarme lo que necesiten.
 - 😄 Puedes decirme : **Lean**
 <br>
