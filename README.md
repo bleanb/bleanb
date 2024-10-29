@@ -38,10 +38,9 @@
 <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <!--<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>-->
 </div>
-
-Credit: [VatanAgnihotri](https://github.com/bleanb)
-
-Last Edited on: 03/05/2024
+<h2></h2>
+Credit: [bleanb](https://github.com/bleanb)
+Last Edited on: 29/10/2024
 
 
 <!--
